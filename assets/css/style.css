@@ -8,7 +8,9 @@ body {
   /* more on this crazy alphanumerical value in a minute! */
   color: #39a6b2;
   font-family: Helvetica, Arial, sans-serif;
-  background-image: url('/images/hero-bg.jpg');
+  background-image: url('/assets/images/hero-bg.jpg');
+  background-size: 100%;
+  background-position: top;
   background-repeat: no-repeat;
 }
 
